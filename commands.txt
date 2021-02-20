@@ -6,3 +6,21 @@ git commit -m "whatever message"
 git push
 ----
 git pull
+----
+git brunch \\shows branches
+
+git branch [new branch name]
+
+git checkout [branch name] \\to move to that branch
+
+git push -u origin [branch name]
+git push origin [branch name]
+----
+
+git merge main (merge most updated main in your branch to discover conflicts)
+
+---------------------------------
+
+branch when working on something, keep pulling from main to make sure you have most
+updated main version and to resolve conflicts in that branch, then commit to the branch
+with pull request. After review, can commit to the main branch. 
