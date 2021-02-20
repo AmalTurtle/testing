@@ -12,4 +12,7 @@ git brunch \\shows branches
 git branch [new branch name]
 
 git checkout [branch name] \\to move to that branch
+
+git push -u origin [branch name]
+git push origin [branch name]
 ----
