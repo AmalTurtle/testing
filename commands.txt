@@ -1,0 +1,5 @@
+dir
+git clone [http link of the project]
+git status
+git add [fileName]
+git commit -m "whatever message"
