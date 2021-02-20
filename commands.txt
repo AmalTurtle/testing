@@ -6,3 +6,10 @@ git commit -m "whatever message"
 git push
 ----
 git pull
+----
+git brunch \\shows branches
+
+git branch [new branch name]
+
+git checkout [branch name] \\to move to that branch
+----
