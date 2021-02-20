@@ -16,6 +16,7 @@ git checkout [branch name] \\to move to that branch
 git push -u origin [branch name]
 git push origin [branch name]
 ----
+<<<<<<< HEAD
 
 git merge main (merge most updated main in your branch to discover conflicts)
 
@@ -24,3 +25,5 @@ git merge main (merge most updated main in your branch to discover conflicts)
 branch when working on something, keep pulling from main to make sure you have most
 updated main version and to resolve conflicts in that branch, then commit to the branch
 with pull request. After review, can commit to the main branch. 
+=======
+>>>>>>> 681f6e4245a3182f0bd44f680b1a4a92ea56492f
