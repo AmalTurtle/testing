@@ -24,4 +24,7 @@ git merge main (merge most updated main in your branch to discover conflicts)
 branch when working on something, keep pulling from main to make sure you have most
 updated main version and to resolve conflicts in that branch, then commit to the branch
 with pull request. After review, can commit to the main branch. 
-=======
+----------
+
+For react, npm install tachyons
+for similar to bootstrap..
